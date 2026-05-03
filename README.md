@@ -14,17 +14,21 @@
 
 <br>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM3OW1iN3I5Znc4YmRuZG10cm9jYzNveGxyNmt3M2ZlNGduZGtteCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eq2vvX6iFxGdcEtqRI/giphy.gif" width="28"/> About Me
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM3OW1iN3I5Znc4YmRuZG10cm9jYzNveGxyNmt3M2ZlNGduZGtteCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eq2vvX6iFxGdcEtqRI/giphy.gif" width="28"/> About Me
 
-<img align="right" width="380" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNzY3ExMWc3ejNzb2toMHVhc2VqbzV3YTN2dTd1N2JmYTIwMTJhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif"/>
-
-Hi! I'm **Benjamin Aliaga**, a computer engineering student from **Chile** 🇨🇱
-
-🌐 Passionate about **networks and the cloud**  
-🎓 Currently in my **2nd year** of Computer Engineering  
-📚 Taking my first steps into **cloud networking** and loving it.  
-
-
+<table>
+<tr>
+<td valign="middle">
+<h4>Hi! I'm <strong>Benjamin Aliaga</strong>, a computer engineering student from <strong>Chile</strong> 🇨🇱</h4>
+🌐 Passionate about <strong>networks and the cloud</strong> <br>
+🎓 Currently in my <strong>2nd year</strong> of Computer Engineering <br>
+📚 Taking my first steps into <strong>cloud networking</strong> and loving it.
+</td>
+<td>
+<img width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNzY3ExMWc3ejNzb2toMHVhc2VqbzV3YTN2dTd1N2JmYTIwMTJhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif"/>
+</td>
+</tr>
+</table>
 <br clear="right"/>
 
 ---
