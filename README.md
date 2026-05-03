@@ -7,7 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/737797797742641234">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=BenjaminAliagaMardones&style=for-the-badge&color=2c5364" alt="profile views"/>
 </p>
 
