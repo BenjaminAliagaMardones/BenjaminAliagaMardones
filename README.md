@@ -33,16 +33,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-📡 Studying:      CCNA (Networking fundamentals)
-🧭 Next:          AWS Cloud Practitioner
-💬 Ask me about:  Networking, Linux, Python
-```
-
----
-
 ## 🛠️ Tools & Technologies
 
 <p align="left">
